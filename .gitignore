@@ -1,0 +1,9 @@
+# files that don't need to be in the repository
+
+# Builds
+GoCodeExamples
+main
+
+# Replit Files
+.replit
+replit.nix
