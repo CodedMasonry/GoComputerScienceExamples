@@ -1,7 +1,13 @@
 # GoComputerScienceExamples
 Computer science ideas written in go
 
-I intend on updating this repository and a [python](https://github.com/NativeCognitive/PyComputerScienceExamples) repository as I learn computer science with the code representations as I learn
+Sadly I won't be focusing on this repository as I am focusing on learning other programming languages but when I find time I will attempt to add to it.
+
+Current Repository I am working on are:
+[python version](https://github.com/NativeCognitive/PyComputerScienceExamples)
+rust version (soon)
+[go version](https://github.com/NativeCognitive/GoComputerScienceExamples)
+I will be updating these repositories as I learn computer science with the code representations as I learn
 
 Currently I am using:
 https://roadmap.sh/computer-science
