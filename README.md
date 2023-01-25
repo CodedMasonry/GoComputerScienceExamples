@@ -7,6 +7,7 @@ Current Repository I am working on are:
 - [python version](https://github.com/NativeCognitive/PyComputerScienceExamples)
 - (rust version](https://github.com/NativeCognitive/RustComputerScienceExamples)
 - [go version](https://github.com/NativeCognitive/GoComputerScienceExamples)
+
 I will be updating these repositories as I learn computer science with the code representations as I learn
 
 Currently I am using:
